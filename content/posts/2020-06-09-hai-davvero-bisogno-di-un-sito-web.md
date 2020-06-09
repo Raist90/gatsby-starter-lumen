@@ -2,7 +2,7 @@
 template: post
 title: Hai davvero bisogno di un sito web?
 slug: hai-bisogno-di-un-sito-web
-draft: true
+draft: false
 date: 2020-06-09T09:23:56.967Z
 description: Eccoti le 5 domande più frequenti sui siti internet che mi fanno
   gli imprenditori e cosa gli rispondo.
