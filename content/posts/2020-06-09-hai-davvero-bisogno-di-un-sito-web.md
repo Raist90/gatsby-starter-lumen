@@ -21,7 +21,9 @@ Eccoti le 5 domande più frequenti sui siti internet che mi fanno gli imprendito
 
 **1: se sei un imprenditore, la risposta è sempre sì**
 
-![Pc con Sito Web](/media/imprenditore-sito-web.jpg "Photo by Carlos Muza on Unsplash")
+![Pc con Sito Web](/media/imprenditore-sito-web.jpg)
+
+*Foto di [Carlos Muza](https://unsplash.com/@kmuza?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) su [Unsplash](https://unsplash.com/s/photos/business?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 Il sito internet è uno strumento indispensabile per ogni tipo di attività. I tuoi clienti si aspetteranno **sempre** di trovare sul tuo sito le informazioni più aggiornate che riguardano la tua attività. Questo significa che il sito internet è il centro più autorevole della tua presenza sul web.
 
@@ -64,7 +66,7 @@ Ecco i vantaggi del "fai da te":
 * Decidi tu quand'è il momento di trasferire il tuo sito internet su un hosting più grande.
 * Quando avrai realizzato il tuo primo sito internet o la tua prima landing page, dare vita ad un altro progetto online sarà un gioco da ragazzi. Sai questo cosa vuol dire? Che potrai lanciare quanti business online vorrai in totale autonomia. *Costi irrisori rispetto a qualsiasi web agency o professionista.
 
- **4: dipende** 
+  **4: dipende** 
 
 Dal tuo livello di abilità e dal tipo di sito internet. Se non hai mai realizzato un sito internet prima d’ora e non hai alcun interesse nell'imparare, la soluzione migliore è utilizzare un CMS, nello specifico WordPress. Ti basterà seguire il mio semplicissimo corso  per mettere online in soli 7 giorni il sito web della tua attività.
 
