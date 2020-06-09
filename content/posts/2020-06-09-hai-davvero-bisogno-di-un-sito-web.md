@@ -64,7 +64,8 @@ Ecco i vantaggi del "fai da te":
 * Potrai aggiornare i contenuti del tuo sito in qualsiasi momento e senza costi aggiuntivi.
 * Scegli tu la tecnologia da utilizzare. In questo non sei solo, dato che ho realizzato questa fantastica guida per te.
 * Decidi tu quand'è il momento di trasferire il tuo sito internet su un hosting più grande.
-* Quando avrai realizzato il tuo primo sito internet o la tua prima landing page, dare vita ad un altro progetto online sarà un gioco da ragazzi. Sai questo cosa vuol dire? Che potrai lanciare quanti business online vorrai in totale autonomia. *Costi irrisori rispetto a qualsiasi web agency o professionista.
+* Quando avrai realizzato il tuo primo sito internet o la tua prima landing page, dare vita ad un altro progetto online sarà un gioco da ragazzi. Sai questo cosa vuol dire? Che potrai lanciare quanti business online vorrai in totale autonomia. 
+* Costi irrisori rispetto a qualsiasi web agency o professionista.
 
   **4: dipende** 
 
