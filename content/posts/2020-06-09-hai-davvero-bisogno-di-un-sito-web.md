@@ -14,12 +14,14 @@ tags:
 Eccoti le 5 domande più frequenti sui siti internet che mi fanno gli imprenditori e cosa gli rispondo.
 
 1. Ho bisogno di un sito internet?
-1. Meglio un sito internet o un account sui vari social network?
-1. A chi mi rivolgo per la creazione del mio sito internet?
-1. Che strumenti utilizzo per creare un sito internet?
-1. Come faccio a sapere se il mio sito internet funziona correttamente?
+2. Meglio un sito internet o un account sui vari social network?
+3. A chi mi rivolgo per la creazione del mio sito internet?
+4. Che strumenti utilizzo per creare un sito internet?
+5. Come faccio a sapere se il mio sito internet funziona correttamente?
 
 **1: se sei un imprenditore, la risposta è sempre sì**
+
+![Pc con Sito Web](/media/imprenditore-sito-web.jpg "Photo by Carlos Muza on Unsplash")
 
 Il sito internet è uno strumento indispensabile per ogni tipo di attività. I tuoi clienti si aspetteranno **sempre** di trovare sul tuo sito le informazioni più aggiornate che riguardano la tua attività. Questo significa che il sito internet è il centro più autorevole della tua presenza sul web.
 
@@ -60,13 +62,12 @@ Ecco i vantaggi del "fai da te":
 * Potrai aggiornare i contenuti del tuo sito in qualsiasi momento e senza costi aggiuntivi.
 * Scegli tu la tecnologia da utilizzare. In questo non sei solo, dato che ho realizzato questa fantastica guida per te.
 * Decidi tu quand'è il momento di trasferire il tuo sito internet su un hosting più grande.
-* Quando avrai realizzato il tuo primo sito internet o la tua prima landing page, dare vita ad un altro progetto online sarà un gioco da ragazzi. Sai questo cosa vuol dire? Che potrai lanciare quanti business online vorrai in totale autonomia.
-*Costi irrisori rispetto a qualsiasi web agency o professionista.
+* Quando avrai realizzato il tuo primo sito internet o la tua prima landing page, dare vita ad un altro progetto online sarà un gioco da ragazzi. Sai questo cosa vuol dire? Che potrai lanciare quanti business online vorrai in totale autonomia. *Costi irrisori rispetto a qualsiasi web agency o professionista.
 
-** 4: dipende **
+ **4: dipende** 
 
 Dal tuo livello di abilità e dal tipo di sito internet. Se non hai mai realizzato un sito internet prima d’ora e non hai alcun interesse nell'imparare, la soluzione migliore è utilizzare un CMS, nello specifico WordPress. Ti basterà seguire il mio semplicissimo corso  per mettere online in soli 7 giorni il sito web della tua attività.
 
-** 5: effettua test e raccogli feedback**
+ **5: effettua test e raccogli feedback**
 
 Se hai già un sito internet, prova a navigarlo su tanti dispositivi (smartphone, pc portatili, pc desktop, smart tv) e browser differenti (Mozilla Firefox, Google Chrome, Safari, Microsoft Edge, Opera). Chiedi ai tuoi clienti più affezionati se hanno problemi con la navigazione del sito e prendi nota di tutti i suggerimenti che ti offrono. Se non hai qualcuno a cui poter delegare tutte le correzioni che vorresti apportare o se hai realizzato il tuo sito web da solo e non sai come risolvere i problemi che lo affliggono, niente paura! Ho realizzato per te questo articolo in cui elenco tutti i problemi più comuni dei siti web e come risolverli.
