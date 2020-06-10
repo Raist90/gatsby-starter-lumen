@@ -26,7 +26,7 @@ Ma andiamo per gradi.
 
 ## Che cos'è JAMstack?
 
-Jamstack non è il nome di un software (come WordPress, Joomla o Drupal). Si tratta di un nuovo modo di sviluppare siti web e app per migliorarne la performance, la sicurezza, abbattere i costi di sviluppo e che, soprattutto, offre allo sviluppatore un'esperienza meno traumatica.
+JAMstack non è il nome di un software (come WordPress, Joomla o Drupal). Si tratta di un nuovo modo di sviluppare siti web e app per migliorarne la performance, la sicurezza, abbattere i costi di sviluppo e che, soprattutto, offre allo sviluppatore un'esperienza meno traumatica.
 
 Si tratta di pre-renderizzare siti web con Javascript sfruttando le potenzialità offerte dalle API dei browser.
 
