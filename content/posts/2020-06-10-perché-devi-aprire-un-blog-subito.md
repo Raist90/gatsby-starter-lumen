@@ -11,7 +11,8 @@ description: Se anche tu — come tanti altri imprenditori prima di te — hai
 category: Blog
 tags:
   - blog
-  - wordpress
+  - seo
+  - marketing
 ---
 Se anche tu — come tanti altri imprenditori prima di te — hai sempre snobbato l'idea di aprire un blog personale, con questo articolo mi piacerebbe farti capire quali sono tutti gli **enormi vantaggi** a cui stai rinunciando.
 
