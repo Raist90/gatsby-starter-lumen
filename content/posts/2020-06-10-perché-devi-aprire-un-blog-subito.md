@@ -2,7 +2,7 @@
 template: post
 title: Perché devi aprire un blog subito
 slug: perche-devi-aprire-un-blog
-draft: true
+draft: false
 date: 2020-06-10T14:59:09.795Z
 description: Se anche tu — come tanti altri imprenditori prima di te — hai
   sempre snobbato l’idea di aprire un blog personale, con questo articolo mi
