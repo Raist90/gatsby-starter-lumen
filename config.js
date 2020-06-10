@@ -17,7 +17,7 @@ module.exports = {
     },
     {
       label: 'Su di me',
-      path: '/pages/about'
+      path: '/pages/su-di-me'
     },
     {
       label: 'Contattami',
