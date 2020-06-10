@@ -3,7 +3,7 @@ template: page
 title: Su di me
 socialImage: /media/image-2.jpg
 slug: su-di-me
-draft: true
+draft: false
 ---
 
 Mi chiamo Manuel e mi occupo da 5 anni di progettazione e sviluppo siti internet per aziende. Sono nato a Benevento e attualmente vivo a Bologna, dove mi sono laureato presso la facoltà DAMS.
