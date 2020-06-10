@@ -2,7 +2,7 @@
 template: post
 title: Nome a dominio, come sceglierlo
 slug: come-scegliere-dominio
-draft: true
+draft: false
 date: 2020-06-10T12:49:07.133Z
 description: Una guida pratica su come scegliere il nome a dominio perfetto per
   il sito web della tua attività.
