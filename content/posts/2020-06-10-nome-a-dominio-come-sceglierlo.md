@@ -12,12 +12,12 @@ tags:
   - sito web
   - ovh
 ---
-* Cos'è un nome a dominio?
-* Che estensione scelgo per il nome a dominio del mio sito internet?
-* Dove posso comprare un nome a dominio?
-* Quanto costa un nome a dominio?
-* Qual è il miglior nome a dominio per il sito internet della mia attività?
-* Vorrei comprare un nome a dominio ma non saprei da dove cominciare
+* [Cos'è un nome a dominio?](#cos%C3%A8-un-nome-a-dominio)
+* [Che estensione scelgo per il nome a dominio del mio sito internet?](#che-estensione-scelgo-per-il-nome-a-dominio-del-mio-sito-internet)
+* [Dove posso comprare un nome a dominio?](#dove-posso-comprare-un-nome-a-dominio)
+* [Quanto costa un nome a dominio?](#quanto-costa-un-nome-a-dominio)
+* [Qual è il miglior nome a dominio per il sito internet della mia attività?](#qual-%C3%A8-il-miglior-nome-a-dominio-per-il-sito-internet-della-mia-attivit%C3%A0)
+* [Vorrei comprare un nome a dominio ma non saprei da dove cominciare](#vorrei-comprare-un-nome-a-dominio-ma-non-saprei-da-dove-cominciare)
 
 ### Cos'è un nome a dominio?
 
