@@ -11,7 +11,7 @@ tags:
   - jamstack
   - sito web
   - gatsby
-  - netifly cms
+  - netlify cms
   - cms
 ---
 Se non hai ancora consultato la mia guida "Perché devi migliorare la velocità del tuo sito" ti invito a farlo subito, per poter meglio apprezzare questo articolo.
@@ -48,7 +48,7 @@ Non ti nascondo che per un sito piccolino come il mio blog è un enorme vantaggi
 
 ## Ecco come ho sviluppato il mio blog
 
-Per la realizzazione di questo blog ho sfruttato un generatore statico di siti web chiamato Gatsby e, per non rinunciare ad un editor di testo, gli ho abbinato Netifly CMS.
+Per la realizzazione di questo blog ho sfruttato un generatore statico di siti web chiamato Gatsby e, per non rinunciare ad un editor di testo, gli ho abbinato Netlify CMS.
 
 Nei prossimi giorni pubblicherò un articolo più approfondito su questi strumenti, per oggi è tutto.
 
