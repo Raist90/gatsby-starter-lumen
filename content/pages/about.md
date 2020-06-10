@@ -14,7 +14,7 @@ Il mio obiettivo è quello di aiutarti a sviluppare da solo i tuoi siti internet
 
 Pensi che sia più facile a dirsi che a farsi? Lascia che ti dica una cosa.
 
-**Tutto quello che so l'ho imparato da solo**
+**Tutto quello che so l'ho imparato da solo**.
 
 Non ho mai conseguito una laurea in ingegneria informatica nè speso cifre esorbitanti in corsi di formazione. 
 
