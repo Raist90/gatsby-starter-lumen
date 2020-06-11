@@ -23,17 +23,23 @@ Nata come piattaforma di blogging, col tempo la sua community è riuscita a tras
 
 Con questo strumento oggi puoi comodamente realizzare qualsiasi tipo di progetto web ti venga in mente: siti vetrina, blog, eCommerce, landing page, siti con aree private e quant'altro.
 
+***
+
 ## Quanto costa WordPress?
 
 WordPress in sè è completamente gratuito. È doveroso però accennare che esistono tante estensioni a pagamento sviluppate da privati che contribuiscono a migliorare notevolmente l'esperienza di utilizzo dell'app. 
 
 Tranquillo, di questo non devi preoccuparti, poichè ho incluso già nel mio videocorso tutte le risorse di cui hai bisogno per realizzare il tuo primo sito internet in piena autonomia.
 
+***
+
 ## È difficile da usare?
 
 Un po’ come gli scacchi, è facile e immediato giocarci ma ci vogliono anni di pratica per diventare campioni. 
 
 Comunque sia, dopo aver seguito il mio videocorso ti accorgerai che realizzare il tuo primo sito web è davvero un gioco divertente e, lo spero, ti verrà la voglia di approfondire alcune tematiche e di crearne anche tanti altri.
+
+***
 
 ## Quello che io e i miei clienti amiamo di WordPress
 
