@@ -19,11 +19,13 @@ Eccoti le 5 domande più frequenti sui siti internet che mi fanno gli imprendito
 4. Che strumenti utilizzo per creare un sito internet?
 5. Come faccio a sapere se il mio sito internet funziona correttamente?
 
-**1: se sei un imprenditore, la risposta è sempre sì**
-
 ![Pc con Sito Web](/media/imprenditore-sito-web.jpg)
 
 *Foto di [Carlos Muza](https://unsplash.com/@kmuza?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) su [Unsplash](https://unsplash.com/s/photos/business?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+***
+
+### 1: se sei un imprenditore, la risposta è sempre sì
 
 Il sito internet è uno strumento indispensabile per ogni tipo di attività. I tuoi clienti si aspetteranno **sempre** di trovare sul tuo sito le informazioni più aggiornate che riguardano la tua attività. Questo significa che il sito internet è il centro più autorevole della tua presenza sul web.
 
@@ -44,7 +46,7 @@ Sono sicuro che hai capito che **oggi hai estremamente bisogno di un sito intern
 
 In verità, la domanda giusta è questa: ho bisogno di un sito internet adesso o c'è bisogno che faccia prima qualcos'altro? Leggi questo articolo per schiarirti definitivamente le idee.
 
-**2: meglio entrambi**
+### 2: meglio entrambi
 
 Non mi dilungherò troppo sui social network poichè l'argomento esula da questa guida. 
 
@@ -54,7 +56,7 @@ Scegli tu quali sono i social network più adatti al tuo business, ma ricorda: s
 
 Infatti non stai facendo remarketing; non stai agganciando tutti i potenziali clienti che ti hanno visto sui social e, per qualche motivo, non ti hanno contattato; non stai facendo mail marketing; non stai generando lead in modo automatico; in poche parole **stai tagliando le gambe al tuo business**.
 
-**3: se non puoi spendere una fortuna è meglio che te lo fai da solo**
+### 3: se non puoi spendere una fortuna è meglio che te lo fai da solo
 
 Proprio così. O ti affidi ai migliori (pagandoli profumatamente) o è meglio se te lo fai da solo. Una web agency economica solitamente non è strutturata in modo da poter realizzare un sito internet funzionale e performante. Puoi leggere qui quali sono i rischi di affidarti ad un'agenzia low cost per la realizzazione del tuo sito internet.
 
@@ -67,10 +69,10 @@ Ecco i vantaggi del "fai da te":
 * Quando avrai realizzato il tuo primo sito internet o la tua prima landing page, dare vita ad un altro progetto online sarà un gioco da ragazzi. Sai questo cosa vuol dire? Che potrai lanciare quanti business online vorrai in totale autonomia. 
 * Costi irrisori rispetto a qualsiasi web agency o professionista.
 
-  **4: dipende** 
+### 4: dipende
 
 Dal tuo livello di abilità e dal tipo di sito internet. Se non hai mai realizzato un sito internet prima d’ora e non hai alcun interesse nell'imparare, la soluzione migliore è utilizzare un CMS, nello specifico WordPress. Ti basterà seguire il mio semplicissimo corso  per mettere online in soli 7 giorni il sito web della tua attività.
 
- **5: effettua test e raccogli feedback**
+### 5: effettua test e raccogli feedback
 
 Se hai già un sito internet, prova a navigarlo su tanti dispositivi (smartphone, pc portatili, pc desktop, smart tv) e browser differenti (Mozilla Firefox, Google Chrome, Safari, Microsoft Edge, Opera). Chiedi ai tuoi clienti più affezionati se hanno problemi con la navigazione del sito e prendi nota di tutti i suggerimenti che ti offrono. Se non hai qualcuno a cui poter delegare tutte le correzioni che vorresti apportare o se hai realizzato il tuo sito web da solo e non sai come risolvere i problemi che lo affliggono, niente paura! Ho realizzato per te questo articolo in cui elenco tutti i problemi più comuni dei siti web e come risolverli.
