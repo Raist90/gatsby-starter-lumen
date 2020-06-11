@@ -13,17 +13,17 @@ tags:
 ---
 Eccoti le 5 domande più frequenti sui siti internet che mi fanno gli imprenditori e cosa gli rispondo.
 
-1. Ho bisogno di un sito internet?
-2. Meglio un sito internet o un account sui vari social network?
-3. A chi mi rivolgo per la creazione del mio sito internet?
-4. Che strumenti utilizzo per creare un sito internet?
-5. Come faccio a sapere se il mio sito internet funziona correttamente?
+1. [Ho bisogno di un sito internet?](#1-se-sei-un-imprenditore-la-risposta-è-sempre-sì)
+2. [Meglio un sito internet o un account sui vari social network?](#2-meglio-entrambi)
+3. [A chi mi rivolgo per la creazione del mio sito internet?](#3-se-non-puoi-spendere-una-fortuna-è-meglio-che-te-lo-fai-da-solo)
+4. [Che strumenti utilizzo per creare un sito internet?](#4-dipende)
+5. [Come faccio a sapere se il mio sito internet funziona correttamente?](#5-effettua-test-e-raccogli-feedback)
 
 ![Pc con Sito Web](/media/imprenditore-sito-web.jpg)
 
 *Foto di [Carlos Muza](https://unsplash.com/@kmuza?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) su [Unsplash](https://unsplash.com/s/photos/business?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
-***
+- - -
 
 ### 1: se sei un imprenditore, la risposta è sempre sì
 
@@ -46,6 +46,8 @@ Sono sicuro che hai capito che **oggi hai estremamente bisogno di un sito intern
 
 In verità, la domanda giusta è questa: ho bisogno di un sito internet adesso o c'è bisogno che faccia prima qualcos'altro? Leggi questo articolo per schiarirti definitivamente le idee.
 
+- - -
+
 ### 2: meglio entrambi
 
 Non mi dilungherò troppo sui social network poichè l'argomento esula da questa guida. 
@@ -55,6 +57,8 @@ Oggi la tua presenza sui social network è indispensabile, a prescindere da qual
 Scegli tu quali sono i social network più adatti al tuo business, ma ricorda: se non hai un sito internet o una landing page non stai sfruttando appieno le potenzialità dei social network. 
 
 Infatti non stai facendo remarketing; non stai agganciando tutti i potenziali clienti che ti hanno visto sui social e, per qualche motivo, non ti hanno contattato; non stai facendo mail marketing; non stai generando lead in modo automatico; in poche parole **stai tagliando le gambe al tuo business**.
+
+- - -
 
 ### 3: se non puoi spendere una fortuna è meglio che te lo fai da solo
 
@@ -69,9 +73,13 @@ Ecco i vantaggi del "fai da te":
 * Quando avrai realizzato il tuo primo sito internet o la tua prima landing page, dare vita ad un altro progetto online sarà un gioco da ragazzi. Sai questo cosa vuol dire? Che potrai lanciare quanti business online vorrai in totale autonomia. 
 * Costi irrisori rispetto a qualsiasi web agency o professionista.
 
+- - -
+
 ### 4: dipende
 
 Dal tuo livello di abilità e dal tipo di sito internet. Se non hai mai realizzato un sito internet prima d’ora e non hai alcun interesse nell'imparare, la soluzione migliore è utilizzare un CMS, nello specifico WordPress. Ti basterà seguire il mio semplicissimo corso  per mettere online in soli 7 giorni il sito web della tua attività.
+
+- - -
 
 ### 5: effettua test e raccogli feedback
 
