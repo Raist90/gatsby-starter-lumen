@@ -2,7 +2,7 @@
 template: post
 title: Guida al miglior hosting con WordPress integrato
 slug: miglior-hosting-wordpress-integrato
-draft: true
+draft: false
 date: 2020-06-11T10:15:55.674Z
 description: L’hosting è lo spazio fisico che devi prendere in affitto per
   ospitare le cartelle e i file del tuo sito internet. In questa guida te ne
