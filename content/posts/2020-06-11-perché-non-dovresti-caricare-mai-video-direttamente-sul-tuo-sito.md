@@ -2,7 +2,7 @@
 template: post
 title: Perché non dovresti caricare mai video direttamente sul tuo sito
 slug: perche-non-dovresti-caricare-mai-video-direttamente-sul-sito
-draft: true
+draft: false
 date: 2020-06-11T09:00:40.482Z
 description: I video oggi sono uno strumento incredibilmente efficace per
   qualsiasi strategia di vendita online. Scopri come inserirli all'interno del
