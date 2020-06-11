@@ -24,11 +24,15 @@ Se sei uno smanettone compulsivo, avrai scoperto che questo blog non è stato sv
 
 Ma andiamo per gradi.
 
+***
+
 ## Che cos'è JAMstack?
 
 JAMstack non è il nome di un software (come WordPress, Joomla o Drupal). Si tratta di un nuovo modo di sviluppare siti web e app per migliorarne la performance, la sicurezza, abbattere i costi di sviluppo e che, soprattutto, offre allo sviluppatore un'esperienza meno traumatica.
 
 Si tratta di pre-renderizzare siti web con Javascript sfruttando le potenzialità offerte dalle API dei browser.
+
+***
 
 ## Differenze tra JAMstack e CMS
 
@@ -45,6 +49,8 @@ Questo comporta enormi vantaggi in termini di performance e reattività perché 
 Operando via CDN, un sito web realizzato con JAMstack non ha neanche bisogno di hosting.
 
 Non ti nascondo che per un sito piccolino come il mio blog è un enorme vantaggio in termini economici non dipendere da un hosting.
+
+***
 
 ## Ecco come ho sviluppato il mio blog
 
