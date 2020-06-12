@@ -1,6 +1,7 @@
 // @flow strict
 import React from 'react';
 import moment from 'moment';
+import italianLocale from 'moment/locale/it'
 import { Link } from 'gatsby';
 import type { Edges } from '../../types';
 import styles from './Feed.module.scss';
