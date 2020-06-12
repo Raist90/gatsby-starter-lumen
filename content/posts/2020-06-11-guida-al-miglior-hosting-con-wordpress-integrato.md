@@ -7,11 +7,12 @@ date: 2020-06-11T10:15:55.674Z
 description: L’hosting è lo spazio fisico che devi prendere in affitto per
   ospitare le cartelle e i file del tuo sito internet. In questa guida te ne
   consiglio uno in particolare.
-category: Sito web
+category: Siti web
 tags:
   - hosting
   - wordpress
   - ovh
+  - sito web
 ---
 In commercio esistono tanti hosting, alcuni molto diversi tra loro e specifici per tipologie diverse di progetti web. 
 
