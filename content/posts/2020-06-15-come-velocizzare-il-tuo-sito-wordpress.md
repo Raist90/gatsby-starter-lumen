@@ -28,3 +28,11 @@ Le tre azioni che incidono maggiormente sull'ottimizzazione del tuo sito sono le
 1. Utilizzare un tema WordPress più leggero.
 
 ### Come comprimere le immagini del tuo sito
+
+Una cosa sbagliata che ho visto fare molto spesso è scaricare un plugin per comprimere le immagini. 
+
+Soprattutto se non hai tante foto sul tuo sito, lo spazio in MB che liberi comprimendole potrebbe addirittura essere inferiore a quanti ne richiede il plugin stesso.
+
+In generale non è mai una buona pratica installare troppi plugin.
+
+Se non l'hai già fatto, penso che potrebbe esserti utile questo articolo in cui consiglio di non installare mai troppi plugin per evitare una serie di problematiche (alcune anche gravi).
