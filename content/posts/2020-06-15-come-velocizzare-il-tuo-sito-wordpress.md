@@ -21,3 +21,10 @@ Avere un sito rapido e performante è sinonimo di affidabilità e di professiona
 
 ### Come faccio a rendere il mio sito WordPress più veloce?
 
+Le tre azioni che incidono maggiormente sull'ottimizzazione del tuo sito sono le seguenti:
+
+1. Comprimere le immagini del tuo sito.
+1. Eliminare i plugin superflui.
+1. Utilizzare un tema WordPress più leggero.
+
+### Come comprimere le immagini del tuo sito
