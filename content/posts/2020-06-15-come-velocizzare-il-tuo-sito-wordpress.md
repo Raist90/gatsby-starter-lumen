@@ -2,7 +2,7 @@
 template: post
 title: Come velocizzare il tuo sito WordPress
 slug: come-velocizzare-sito-wordpress
-draft: true
+draft: false
 date: 2020-06-15T08:02:26.597Z
 description: Se il tuo sito è molto lento in fase di caricamento stai facendo
   scappar via tantissimi utenti che navigano con lo smartphone. Consulta questa
@@ -16,6 +16,8 @@ tags:
 Se il tuo sito è molto lento in fase di caricamento molto probabilmente stai facendo scappar via tantissimi utenti, soprattutto quelli che navigano con lo smartphone. 
 
 Avere un sito rapido e performante è sinonimo di affidabilità e di professionalità, sia per i motori di ricerca che per i tuoi utenti.
+
+![Dovresti rendere più veloce il tuo sito web](/media/abstract-waiting.png)
 
 È ormai risaputo che la maggior parte degli utenti si fa una prima impressione del tuo sito in pochissimi secondi. Capisci bene che, se durante questi secondi il sito non riesce a caricarsi, l'utente andrà a ricercare le informazioni di cui ha bisogno altrove.
 
@@ -87,7 +89,7 @@ Allora metti mano al portafogli e compra un hosting migliore.
 
 Se non sai da dove cominciare te ne consiglio uno con rapporto qualità prezzo imbattibile a [questo indirizzo](/posts/miglior-hosting-wordpress-integrato).
 
-*** 
+- - -
 
 ### Snellisci il design dell'homepage
 
