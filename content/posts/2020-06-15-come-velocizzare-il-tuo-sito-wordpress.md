@@ -26,6 +26,8 @@ Le tre azioni che incidono maggiormente sull'ottimizzazione del tuo sito sono le
 1. Comprimere le immagini del tuo sito.
 1. Eliminare i plugin superflui.
 1. Utilizzare un tema WordPress più leggero.
+1. Scegli un hosting migliore.
+1. Snellisci il design dell'homepage.
 
 ### Come comprimere le immagini del tuo sito
 
