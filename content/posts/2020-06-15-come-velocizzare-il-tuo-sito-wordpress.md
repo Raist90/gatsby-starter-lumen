@@ -86,3 +86,15 @@ Hai seguito tutti i passaggi elencati in questa guida ma il tuo sito web continu
 Allora metti mano al portafogli e compra un hosting migliore. 
 
 Se non sai da dove cominciare te ne consiglio uno con rapporto qualità prezzo imbattibile a [questo indirizzo](/posts/miglior-hosting-wordpress-integrato).
+
+*** 
+
+### Snellisci il design dell'homepage
+
+Se la home del tuo sito è la prima pagina sulla quale fai atterrare i tuoi utenti, è bene che abbia un design molto snello e che si carichi in fretta.
+
+Molto spesso ho visto delle homepage inutilmente zeppe di contenuti e molto pesanti da caricare.
+
+Una buona idea potrebbe essere rivedere l'intera struttura del tuo sito per organizzare meglio i contenuti.
+
+Un'altra buona idea potrebbe essere quella di mostrare solo le foto più rappresentative della tua attività sulla home e spostare tutte le altre in una sezione apposita.
