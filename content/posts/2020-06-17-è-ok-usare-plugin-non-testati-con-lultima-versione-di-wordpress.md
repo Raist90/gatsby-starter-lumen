@@ -48,7 +48,7 @@ Ecco la soluzione pratica e veloce:
 
 ## Conclusioni
 
-Spesso installiamo plugin che contengono 10 righe di codice PHP. Mi è capitato di utilizzare un plugin così piccolo che non è mai stato aggiornato per anni e che non ha mai smesso di funzionare.
+Spesso installiamo plugin che contengono 10 righe di codice PHP o meno. Mi è capitato di utilizzare un plugin così piccolo che non è mai stato aggiornato per anni e che non ha mai smesso di funzionare.
 
 Ovviamente ti sconsiglio in generale di utilizzare plugin per qualsiasi cosa. Valuta prima attentamente se il tuo sito ha realmente bisogno di quella funzione o se è puramente estetica o poco rilevante. 
 
