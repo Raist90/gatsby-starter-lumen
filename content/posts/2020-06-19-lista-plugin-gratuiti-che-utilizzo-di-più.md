@@ -2,7 +2,7 @@
 template: post
 title: Lista plugin gratuiti che utilizzo di più
 slug: lista-plugin-gratuiti-che-utilizzo
-draft: true
+draft: false
 date: 2020-06-19T08:46:25.237Z
 description: In questo articolo ti elenco tutti i plugin gratuiti che utilizzo
   quotidianamente su WordPress. Puoi installare questi plugin senza paura,
@@ -56,3 +56,20 @@ Foto di [Stephen Phillips - Hostreviews.co.uk](https://unsplash.com/@hostreviews
 
 **Popup Builder**: in verità preferisco realizzare i popup dei miei siti in codice nativo, però questo è molto utile a chi è alle prime armi. Tieni però a mente che la versione gratuita è parecchio limitata, per popup più efficaci ti consiglio quella a pagamento.
 
+**Really Simple CAPTCHA**: serve ad inserire il tastino "Non sono un robot" sui moduli creati con Contact Form 7.
+
+**Redirection for Contact Form 7**: come suggerisce il nome, ti consente di impostare un reindirizzare il tuo utente sulla pagina del sito che preferisci una volta che effettua la compilazione di un modulo Contact Form 7.
+
+**Really Simple SSL**: utile per eliminare i contenuti misti dal tuo sito internet. Puoi utilizzarlo solo se hai implementato un certificato SSL sul tuo sito.
+
+**TC Custom JavaScript**: questo plugin ti permette di inserire velocemente del codice JavaScript sul tuo sito. Molto simile al già descritto "Insert Headers & Footers".
+
+**WhatsApp Chat**: come avrai capito dal titolo, questo plugin ti permette di inserire un bottone personalizzabile che indirizza l'utente direttamente alla chat di WhatsApp della tua attività.
+
+**WooCommerce**: questo non ha bisogno di spiegazioni. È il plugin n.1 per trasformare il tuo sito web in un eCommerce.
+
+**Yoast SEO**: plugin molto valido per eseguire operazioni SEO sul tuo sito. La versione a pagamento offre molte possibilità in più ma è consigliabile installare quantomeno quella gratuita.
+
+**WP Mail SMTP Plugin by Mail Bank**: se utilizziamo il plugin Contact Form 7 per la creazione dei moduli sul nostro sito, con questo plugin possiamo far sì che le mail di WordPress arrivino sempre a destinazione utilizzando dei record SMTP di qualsiasi provider mail.
+
+**WP Rest API**: puoi usare questo plugin per mostrare su una pagina web un feed con gli ultimi articoli di tutti i tuoi blog esterni di cui sei proprietario.
