@@ -11,8 +11,8 @@ const NotFoundTemplate = () => {
   return (
     <Layout title={`Not Found - ${title}`} description={subtitle}>
       <Sidebar />
-      <Page title="NOT FOUND">
-        <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+      <Page title="Pagina non trovata">
+        <p>La pagina che stai cercando di raggiungere non esiste più, o è stata rimossa. Usa i menu o il box di ricerca per trovare quello che stai cercando.</p>
       </Page>
     </Layout>
   );
