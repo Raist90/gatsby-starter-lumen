@@ -50,4 +50,4 @@ Spesso installiamo plugin che contengono 10 righe di codice PHP o meno. Mi è ca
 
 Ovviamente ti sconsiglio in generale di utilizzare plugin per qualsiasi cosa. Valuta prima attentamente se il tuo sito ha realmente bisogno di quella funzione o se essa è puramente estetica o poco rilevante. 
 
-**Bonus**: consulta questa lista dei plugin che utilizzo di più, ti assicuro che non avrai problemi ad utilizzarli. Magari uno di questi presenti nella lista svolge la stessa funzione di uno di quelli obsoleti che volevi installare.
+**Bonus**: consulta questa [lista dei plugin che utilizzo di più](https://mdtblog.netlify.app/posts/lista-plugin-gratuiti-che-utilizzo), ti assicuro che non avrai problemi ad utilizzarli. Magari uno di questi presenti nella lista svolge la stessa funzione di uno di quelli obsoleti che volevi installare.
