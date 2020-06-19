@@ -21,6 +21,7 @@ Tieni presente che non c'è assolutamente bisogno che li installi tutti sul tuo 
 
 Foto di [Stephen Phillips - Hostreviews.co.uk](https://unsplash.com/@hostreviews?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) su [Unsplash](/s/photos/plugin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
+**Nota**: col tempo questa lista potrebbe subire parecchie modifiche, perciò ti consiglio di tornare a visitarla in futuro.
 - - -
 
 **All in one WP Migration**: personalmente uso tantissimo questo plugin e sarei disposto anche a pagarlo per quanto riesce a velocizzare il mio lavoro. Creare backup e trasferire siti web da un indirizzo all'altro o addirittura dal mio pc (in locale) con questo plugin è davvero un'esperienza incredibile. Provare per credere.
@@ -42,3 +43,16 @@ Foto di [Stephen Phillips - Hostreviews.co.uk](https://unsplash.com/@hostreviews
 **Custom Fonts**: plugin che permette in pochissimo tempo di installare sul tuo sito qualsiasi font personalizzato che hai scaricato sul tuo pc. Non posso farne a meno.
 
 **Insert Headers & Footers**: di questo posso fare a meno ma lo inserisco nella lista perché puo' esserti utilissimo se sei alle prime armi e hai bisogno di inserire del codice CSS o JavaScript all'interno dei tag head e body su tutte le pagine del tuo sito.
+
+**Login Logout Register Menu**: può essere parecchio utile per inserire facilmente come voci di menù le funzioni login, logout e registrati.
+
+**LoginPress - Customizing the WordPress Login**: questo plugin ti permette di modificare molto rapidamente dalla schermata "Personalizza" la pagina di login di default di WordPress. Puoi sostituire il logo WordPress con quello della tua attività, inserire un'immagine di sfondo e tanto altro.
+
+**Members**: sicuramente il miglior plugin in circolazione per gestire i ruoli dei tuoi utenti all'interno del tuo sito. Compatibile al 100% con WooCommerce, può essere usato in combinazione con altri plugin per creare degli sconti personalizzabili in base ai ruoli utente.
+
+**Peter's Login Redirect**: comodo plugin per re-indirizzare con facilità un utente sulla pagina che vogliamo dopo che ha effettuato il login all'interno del nostro sito.
+
+**Polylang**: il plugin che uso di solito per creare le versioni straniere dei miei siti. Utile anche per tradurre le voci generate da plugin che non hanno una versione italiana.
+
+**Popup Builder**: in verità preferisco realizzare i popup dei miei siti in codice nativo, però questo è molto utile a chi è alle prime armi. Tieni però a mente che la versione gratuita è parecchio limitata, per popup più efficaci ti consiglio quella a pagamento.
+
