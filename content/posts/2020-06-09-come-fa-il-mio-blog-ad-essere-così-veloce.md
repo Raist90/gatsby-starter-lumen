@@ -14,7 +14,7 @@ tags:
   - netlify cms
   - cms
 ---
-Se non hai ancora consultato la mia guida "Perché devi migliorare la velocità del tuo sito" ti invito a farlo subito, per poter meglio apprezzare questo articolo.
+Se non hai ancora consultato la mia guida "[Perché devi migliorare la velocità del tuo sito](posts/come-velocizzare-sito-wordpress)" ti invito a farlo subito, per poter meglio apprezzare questo articolo.
 
 Probabilmente avrai notato che il mio blog è davvero molto veloce e ci mette pochissimi secondi a caricare pagine ed articoli.
 
@@ -24,7 +24,7 @@ Se sei uno smanettone compulsivo, avrai scoperto che questo blog non è stato sv
 
 Ma andiamo per gradi.
 
-***
+- - -
 
 ## Che cos'è JAMstack?
 
@@ -32,7 +32,7 @@ JAMstack non è il nome di un software (come WordPress, Joomla o Drupal). Si tra
 
 Si tratta di pre-renderizzare siti web con Javascript sfruttando le potenzialità offerte dalle API dei browser.
 
-***
+- - -
 
 ## Differenze tra JAMstack e CMS
 
@@ -50,7 +50,7 @@ Operando via CDN, un sito web realizzato con JAMstack non ha neanche bisogno di 
 
 Non ti nascondo che per un sito piccolino come il mio blog è un enorme vantaggio in termini economici non dipendere da un hosting.
 
-***
+- - -
 
 ## Ecco come ho sviluppato il mio blog
 
