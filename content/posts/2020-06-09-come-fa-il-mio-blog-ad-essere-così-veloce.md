@@ -14,7 +14,7 @@ tags:
   - netlify cms
   - cms
 ---
-Se non hai ancora consultato la mia guida [Perché devi migliorare la velocità del tuo sito](/come-velocizzare-sito-wordpress) ti invito a farlo subito, per poter meglio apprezzare questo articolo.
+Se non hai ancora consultato la mia guida [Perché devi migliorare la velocità del tuo sito](https://mdtblog.netlify.app/posts/come-velocizzare-sito-wordpress) ti invito a farlo subito, per poter meglio apprezzare questo articolo.
 
 Probabilmente avrai notato che il mio blog è davvero molto veloce e ci mette pochissimi secondi a caricare pagine ed articoli.
 
