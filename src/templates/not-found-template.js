@@ -12,7 +12,7 @@ const NotFoundTemplate = () => {
     <Layout title={`Not Found - ${title}`} description={subtitle}>
       <Sidebar />
       <Page title="Pagina non trovata">
-        <p>La pagina che stai cercando di raggiungere non esiste più, o è stata rimossa. Usa i menu o il box di ricerca per trovare quello che stai cercando.</p>
+        <p>La pagina che stai cercando di raggiungere non esiste più, o è stata rimossa. Usa il menu per trovare quello che stai cercando.</p>
       </Page>
     </Layout>
   );
