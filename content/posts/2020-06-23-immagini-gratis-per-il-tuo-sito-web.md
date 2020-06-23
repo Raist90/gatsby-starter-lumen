@@ -1,0 +1,31 @@
+---
+template: post
+title: Immagini gratis per il tuo sito web
+slug: immagini-gratis-sito-web
+draft: true
+date: 2020-06-23T14:06:08.133Z
+description: Oggi condivido con te i migliori portali da cui poter scaricare
+  gratis meravigliose immagini di stock per il tuo sito web.
+category: Siti web
+tags:
+  - sito web
+---
+Prima di arrivare al sodo e girarti i link da dove potrai scaricare splendide immagini di stock gratuite per il tuo sito web, è doveroso fare alcune precisazioni.
+
+Il web è pieno di immagini bellissime e gratuite per rendere i tuoi siti o le tue landing page più belle ma la verità è che puoi tranquillamente farne a meno.
+
+***
+
+## Perché invece dovresti usare foto reali di te e della tua attività
+
+* Perché i tuoi clienti capiscono se le foto che posti sono autentiche oppure no;
+* Perché ti danno la libertà di scegliere in che modo veicolare un concetto;
+* Perché se tutti usano lo stesso stile di immagini non ti distingui dai tuoi concorrenti;
+
+Imprimi per sempre nella memoria la frase che sto per farti leggere:
+
+> Vale molto di più una foto di m**** fatta col tuo cellulare di te o della tua attività che una bellissima immagine di stock.
+
+L'immagine di stock può rappresentare molto bene un settore, ma non la tua attività in modo specifico.
+
+Se stai cercando un modo per comprimere le tue immagini, dai un'occhiata a questa guida. Se invece non conosci ancora l'importanza dell'avere delle immagini compresse sul tuo sito web, consulta questa guida.
