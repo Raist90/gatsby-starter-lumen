@@ -12,7 +12,7 @@ tags:
 ---
 Prima di arrivare al sodo e girarti i link da dove potrai scaricare splendide immagini di stock gratuite per il tuo sito web, è doveroso fare alcune precisazioni.
 
-Il web è pieno di immagini bellissime e gratuite per rendere i tuoi siti o le tue landing page più belle ma la verità è che puoi tranquillamente farne a meno.
+Il web è pieno di immagini bellissime e gratuite per rendere i tuoi siti o le tue landing page più professionali ma la verità è che puoi tranquillamente farne a meno.
 
 ***
 
