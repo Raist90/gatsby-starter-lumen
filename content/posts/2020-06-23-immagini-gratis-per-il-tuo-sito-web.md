@@ -14,6 +14,8 @@ Prima di arrivare al sodo e girarti i link da dove potrai scaricare splendide im
 
 ![Esempio di immagine di stock](/media/immagini-gratis-per-il-tuo-sito-web.jpg)
 
+*Foto di [freestocks](https://unsplash.com/@freestocks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) su [Unsplash](https://unsplash.com/s/photos/shopping?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
 Il web è pieno di immagini bellissime e gratuite per rendere i tuoi siti o le tue landing page più professionali ma la verità è che puoi tranquillamente farne a meno.
 
 - - -
@@ -24,7 +26,7 @@ Il web è pieno di immagini bellissime e gratuite per rendere i tuoi siti o le t
 * Perché ti danno la libertà di scegliere in che modo veicolare un concetto;
 * Perché se tutti usano lo stesso stile di immagini non ti distingui dai tuoi concorrenti;
 
-Imprimi per sempre nella memoria la frase che sto per farti leggere:
+Imprimi per sempre nella memoria la frase che stai per leggere:
 
 > Vale molto di più una foto di bassa qualità fatta col tuo cellulare di te o della tua attività che una bellissima immagine di stock.
 
