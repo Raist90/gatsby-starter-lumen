@@ -24,8 +24,18 @@ Il web è pieno di immagini bellissime e gratuite per rendere i tuoi siti o le t
 
 Imprimi per sempre nella memoria la frase che sto per farti leggere:
 
-> Vale molto di più una foto di m**** fatta col tuo cellulare di te o della tua attività che una bellissima immagine di stock.
+> Vale molto di più una foto di bassa qualità fatta col tuo cellulare di te o della tua attività che una bellissima immagine di stock.
 
 L'immagine di stock può rappresentare molto bene un settore, ma non la tua attività in modo specifico.
 
 Se stai cercando un modo per comprimere le tue immagini, dai un'occhiata a questa guida. Se invece non conosci ancora l'importanza dell'avere delle immagini compresse sul tuo sito web, consulta questa guida.
+
+***
+
+## Dove scaricare immagini gratis
+
+Come promesso, eccoti una lista con tutti i migliori portali da cui poter scaricare immagini di stock gratis:
+* Pixabay.
+* Unsplash.
+* icons8.
+* Canva.
