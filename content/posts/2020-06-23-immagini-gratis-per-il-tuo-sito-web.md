@@ -40,7 +40,7 @@ Se stai cercando un modo per comprimere le tue immagini, dai un'occhiata a quest
 
 Come promesso, eccoti una lista con tutti i migliori portali da cui poter scaricare immagini di stock gratis:
 
-* **Pixabay**. Tante foto e illustrazioni gratis di vari generi e qualità. Ti consiglio di effettuare l'iscrizione gratuita al fine di bypassare il limite di download giornalieri.
-* **Unsplash**. Come Pixabay, forse leggermente meno variegato ma con foto davvero stupende. 
-* **icons8**. Non solo fotografie ed illustrazioni ma anche tante icone.
-* **Canva**. Anche qui tantissime immagini e illustrazioni, sia gratis che a pagamento.
+* **[Pixabay](https://pixabay.com/it/)**. Tante foto e illustrazioni gratis di vari generi e qualità. Ti consiglio di effettuare l'iscrizione gratuita al fine di bypassare il limite di download giornalieri.
+* **[Unsplash](https://unsplash.com)**. Come Pixabay, forse leggermente meno variegato ma con foto davvero stupende. 
+* **[icons8](https://icons8.it)**. Non solo fotografie ed illustrazioni ma anche tante icone.
+* **[Canva](https://www.canva.com)**. Anche qui tantissime immagini e illustrazioni, sia gratis che a pagamento.
