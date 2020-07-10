@@ -27,6 +27,8 @@ Se leggerai quest'articolo fino in fondo troverai anche il collegamento ad una g
 
 L'innovazione tecnologica avanza rapidamente e ciò contribuisce a renderci sempre più impazienti quando si tratta di attendere il caricamento di un sito.
 
+Se in più ci metti che adesso per la maggior parte del tempo sfruttiamo tutti gli smartphone per navigare in rete (e lo facciamo quando magari siamo fuori casa e abbiamo tanti stimoli esterni pronti a distrarci) capisci bene che il tempo e la concentrazione che ognuno dei tuoi utenti ha per cercare risposte alle proprie domande sono sempre più limitati.
+
 In modo da non far scappare i tuoi utenti, devi necessariamente fornirgli un'esperienza di navigazione veloce.
 
 - - -
