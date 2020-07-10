@@ -2,7 +2,7 @@
 template: post
 title: Perché devi migliorare la velocità del tuo sito
 slug: devi-migliorare-la-velocita-del-sito
-draft: true
+draft: false
 date: 2020-07-10T07:36:44.202Z
 description: Avere un sito veloce e performante è obbligatorio se vuoi aumentare
   il traffico di utenti e la generazione di lead.
@@ -17,7 +17,7 @@ Avere un sito snello e veloce a caricarsi è obbligatorio se vuoi aumentare il t
 
 Foto di [Nick Abrams](https://unsplash.com/@nbabrams?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) su [Unsplash](https://unsplash.com/s/photos/slow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-Scrivo questo articolo perché ancora oggi la maggior parte dei siti web che navigo sono sempre più lenti. Il motivo, la maggior parte delle volte, risiede nella scelta e nella quantità delle tecnologie usate. 
+Scrivo questo articolo perché la maggior parte dei siti web che navigo sono sempre lentissimi. Il motivo, la maggior parte delle volte, risiede nella scelta e nella quantità delle tecnologie usate. 
 
 Se leggerai quest'articolo fino in fondo troverai anche il collegamento ad una guida per rendere il tuo sito più veloce.
 
@@ -38,3 +38,9 @@ Cerco di semplificare al massimo la questione: i motori di ricerca hanno il comp
 Questo problema persiste anche se la tua SEO è impeccabile. Non si scappa! A maggior ragione, se hai una SEO fatta bene e ci hai speso anche un po', non credi sia un vero peccato perdersi tutto quel traffico organico?
 
 - - -
+
+### Come faccio a rendere il mio sito più veloce?
+
+Hai speso una cifra per farti fare un sito bellissimo ma hai dei pessimi risultati in ricerche organiche sui motori di ricerca? È tempo di rimediare.
+
+Consulta subito [questa guida](https://mdtblog.netlify.app/posts/come-velocizzare-sito-wordpress) che ho scritto per spiegarti come velocizzare il tuo sito WordPress e mettiti al lavoro.
