@@ -15,7 +15,7 @@ Avere un sito snello e veloce a caricarsi è obbligatorio se vuoi aumentare il t
 
 ![Foto di una tartaruga](/media/devi-migliorare-la-velocità-del-tuo-sito.jpg)
 
-Foto di [Nick Abrams](https://unsplash.com/@nbabrams?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) su [Unsplash](https://unsplash.com/s/photos/slow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+*Foto di [Nick Abrams](https://unsplash.com/@nbabrams?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) su [Unsplash](https://unsplash.com/s/photos/slow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 Scrivo questo articolo perché la maggior parte dei siti web che navigo sono sempre lentissimi. Il motivo, la maggior parte delle volte, risiede nella scelta e nella quantità delle tecnologie usate. 
 
