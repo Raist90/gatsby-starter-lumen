@@ -10,7 +10,7 @@ category: Siti web
 tags:
   - sito web
 ---
-Prima di arrivare al sodo e girarti i link da dove potrai scaricare splendide immagini di stock gratuite per il tuo sito web, è doveroso fare alcune precisazioni.
+Prima di arrivare al punto e girarti i link da dove potrai scaricare splendide immagini di stock gratuite per il tuo sito web, è doveroso fare alcune precisazioni.
 
 ![Esempio di immagine di stock](/media/immagini-gratis-per-il-tuo-sito-web.jpg)
 
@@ -32,8 +32,6 @@ Imprimi per sempre nella memoria la frase che stai per leggere:
 
 L'immagine di stock può rappresentare molto bene un settore, ma non la tua attività in modo specifico.
 
-Se stai cercando un modo per comprimere le tue immagini, dai un'occhiata a questa guida. Se invece non conosci ancora l'importanza dell'avere delle immagini compresse sul tuo sito web, consulta questa guida.
-
 - - -
 
 ## Dove scaricare immagini gratis
@@ -44,3 +42,5 @@ Come promesso, eccoti una lista con tutti i migliori portali da cui poter scaric
 * **[Unsplash](https://unsplash.com)**. Come Pixabay, forse leggermente meno variegato ma con foto davvero stupende. 
 * **[icons8](https://icons8.it)**. Non solo fotografie ed illustrazioni ma anche tante icone.
 * **[Canva](https://www.canva.com)**. Anche qui tantissime immagini e illustrazioni, sia gratis che a pagamento.
+
+Scarica tutte le immagini che vuoi e poi ricordati di comprimerle. Dai un'occhiata a questa guida se non sai da dove cominciare. Se invece non conosci ancora l'importanza dell'avere delle immagini compresse sul tuo sito web, consulta [questa guida](https://mdtblog.netlify.app/posts/come-velocizzare-sito-wordpress).
